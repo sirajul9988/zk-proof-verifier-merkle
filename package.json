@@ -1,0 +1,10 @@
+{
+  "name": "zk-merkle-verifier",
+  "version": "1.0.0",
+  "description": "Zero-Knowledge Membership Verification with Merkle Trees",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "merkletreejs": "^0.3.11",
+    "keccak256": "^1.0.6"
+  }
+}
